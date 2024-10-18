@@ -14,7 +14,7 @@
 		}
 	},
 	"production": {
-		"baseUrl": "https://www.amazon.co.uk",
+		"baseUrl": "https://www.amazon.co.uk/",
 		"env": {
 			"environmentName": "production",
 			"someOtherKey": "someValueOnProduction"
