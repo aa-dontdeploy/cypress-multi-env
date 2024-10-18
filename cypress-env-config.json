@@ -1,0 +1,23 @@
+{
+	"development": {
+		"baseUrl": "https://www.amazon.com",
+		"env": {
+			"environmentName": "development",
+			"someOtherKey": "someValueOnDev"
+		}
+	},
+	"staging": {
+		"baseUrl": "https://www.amazon.co.jp",
+		"env": {
+			"environmentName": "staging",
+			"someOtherKey": "someValueOnStaging"
+		}
+	},
+	"production": {
+		"baseUrl": "https://www.amazon.co.uk",
+		"env": {
+			"environmentName": "production",
+			"someOtherKey": "someValueOnProduction"
+		}
+	}
+}
